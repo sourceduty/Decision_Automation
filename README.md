@@ -12,6 +12,8 @@ An artificial decision refers to a decision outcome generated through automated 
 [Process Automation](https://github.com/sourceduty/Process_Automation)
 <br>
 [Business Automation](https://github.com/sourceduty/Business_Automation)
+<br>
+[Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
