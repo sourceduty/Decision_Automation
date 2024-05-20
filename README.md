@@ -7,6 +7,11 @@ Decision Automation can be immensely helpful by simplifying complex decision-mak
 An artificial decision refers to a decision outcome generated through automated systems or algorithms without direct human input at the moment of decision. These decisions are based on pre-defined rules, data inputs, and logical frameworks established within an automation model. Such systems are increasingly used in areas ranging from finance, where they might determine loan approvals, to everyday gadgets like thermostats that decide when to adjust room temperature based on environmental inputs.
 
 #
+### Example Usage
+
+[Employee_Performance_Evaluation_and_Promotion_Decision_Model.txt](https://github.com/sourceduty/Decision_Automation/files/15380654/Employee_Performance_Evaluation_and_Promotion_Decision_Model.txt)
+
+#
 ### Related Links
 
 [Process Automation](https://github.com/sourceduty/Process_Automation)
