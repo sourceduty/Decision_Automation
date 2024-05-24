@@ -16,6 +16,74 @@ In contrast, decision automation focuses specifically on automating decision-mak
 While process automation encompasses the broader task of automating entire workflows, decision automation is more granular, focusing on specific decision-making tasks within those workflows. Decision automation can be a component of process automation, as processes often include several decision points that benefit from automated, data-driven decision-making to ensure consistency and efficiency. Typically, process automation involves simpler, rule-based tasks, whereas decision automation can involve more complex logic and data analysis, sometimes utilizing AI and ML. Understanding these differences is crucial for selecting the appropriate approach and tools for automating various aspects of business operations, thereby optimizing both processes and decisions for maximum efficiency and effectiveness.
 
 #
+### Notes
+
+<details><summary>Natural Human Decisions vs. Computational Decisions</summary>
+<br>
+
+### Natural Human Decisions:
+
+Emotion and Intuition:
+
+Influence: Human decisions are often influenced by emotions, intuition, and personal experiences.
+Advantage: This allows for quick, gut-feeling decisions that can be effective in uncertain or high-stakes situations.
+Disadvantage: Emotions can sometimes cloud judgment, leading to biased or irrational decisions.
+
+Cognitive Biases:
+
+Influence: Humans are prone to cognitive biases such as confirmation bias, anchoring, and availability heuristic.
+Advantage: These biases can sometimes lead to fast and frugal heuristics that work well in everyday contexts.
+Disadvantage: Biases can result in systematic errors and suboptimal decisions.
+
+Contextual Understanding:
+
+Influence: Humans can understand and interpret complex, nuanced contexts and social cues.
+Advantage: This enables better handling of ambiguous or socially complex situations.
+Disadvantage: It can be challenging to consistently and objectively analyze every detail due to the subjective nature of human interpretation.
+
+Learning and Adaptability:
+
+Influence: Humans learn from past experiences and adapt their decision-making processes over time.
+Advantage: This ability to generalize from a few experiences to broader situations can be highly effective.
+Disadvantage: Learning can be slow, and humans may resist changing deeply ingrained habits or beliefs.
+
+### Computational Decisions:
+
+Data-Driven Analysis:
+
+Influence: Computational decisions are based on data and algorithms.
+Advantage: This allows for the processing of vast amounts of information and identification of patterns that may be invisible to humans.
+Disadvantage: The quality of the decision depends heavily on the quality and completeness of the data.
+
+Consistency and Objectivity:
+
+Influence: Algorithms make decisions based on predefined rules and logic, leading to consistent and objective outcomes.
+Advantage: This removes emotional and subjective biases, ensuring repeatability and reliability.
+Disadvantage: Algorithms can lack flexibility and may fail to account for nuances that fall outside the data or the programmed logic.
+
+Scalability:
+
+Influence: Computational systems can scale to handle complex and large-scale problems beyond human capability.
+Advantage: This enables solving problems that require processing power and speed, such as real-time financial trading or climate modeling.
+Disadvantage: Scaling issues may arise with the complexity of algorithms and the need for substantial computational resources.
+
+Learning and Improvement:
+
+Influence: Machine learning algorithms can improve over time through exposure to new data.
+Advantage: They can identify patterns and make more accurate predictions as they learn from more data.
+Disadvantage: Overfitting to specific datasets or lack of generalizability can be issues, and the learning process can sometimes be opaque (the "black box" problem).
+
+Summary:
+
+Human Decisions: Characterized by emotional and intuitive elements, contextual understanding, and the influence of cognitive biases. Humans excel in situations requiring empathy, creativity, and moral judgments but may struggle with consistency and objectivity.
+Computational Decisions: Driven by data and algorithms, offering consistency, scalability, and objectivity. They are effective in handling large-scale, complex problems but can lack the flexibility and nuanced understanding inherent in human cognition.
+
+Both human and computational decision-making processes have their strengths and weaknesses. In practice, the best outcomes often come from leveraging the strengths of both, using computational tools to enhance human decision-making capabilities.
+
+<br>
+</details>
+
+#
 
 > Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
 
