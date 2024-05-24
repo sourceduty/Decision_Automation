@@ -114,6 +114,7 @@ These methodologies demonstrate how computers can be designed to emulate human d
 <details><summary>Emulated Human Decision Model</summary>
 <br>
 
+```
 +-------------------------------------------+
 |        Human Emulation Decision Model     |
 +-------------------------------------------+
@@ -174,6 +175,7 @@ These methodologies demonstrate how computers can be designed to emulate human d
 |  |                |  |   Maintenance    | |
 |  +----------------+  +------------------+ |
 +-------------------------------------------+
+```
 
 This model provides a comprehensive framework for developing a human emulation decision model, covering all essential aspects from input processing to emotional modeling and social interactions. Each component is interconnected to simulate a holistic human-like decision-making process.
 
