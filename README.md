@@ -112,16 +112,15 @@ These methodologies demonstrate how computers can be designed to emulate human d
 </details>
 
 #
-
-> Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
-
-#
 ### Example Usage
 
 [Employee_Performance_Evaluation_and_Promotion_Decision_Model.txt](https://github.com/sourceduty/Decision_Automation/files/15380654/Employee_Performance_Evaluation_and_Promotion_Decision_Model.txt)
 <br>
 [opinion_example_output.txt](https://github.com/sourceduty/Decision_Automation/files/15440213/opinion_example_output.txt)
 
+#
+
+> Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
 
 #
 ### Related Links
