@@ -17,7 +17,7 @@ While process automation encompasses the broader task of automating entire workf
 
 #
 
-Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
+> Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
 
 #
 ### Example Usage
