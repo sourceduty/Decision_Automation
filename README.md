@@ -83,6 +83,34 @@ Both human and computational decision-making processes have their strengths and 
 <br>
 </details>
 
+<details><summary>Human-like Reasoning in Computers</summary>
+<br>
+
+Human decision-making inspires decisions in computers through various methodologies and principles that emulate human-like reasoning. One fundamental approach is rule-based systems, which reflect how humans often make decisions based on a set of rules or guidelines learned through experience. In computers, rule-based systems, or expert systems, use predefined rules derived from extensive domain knowledge to make decisions, ensuring consistency and reliability in outcomes.
+
+Machine learning (ML) is another key area where human decision-making processes are mirrored. Just as humans learn from past experiences and adapt their decisions, machine learning algorithms enable computers to learn from data and improve their performance over time. Techniques such as supervised learning, unsupervised learning, and reinforcement learning allow computers to make predictions or decisions by identifying patterns in data, much like humans do.
+
+Neural networks offer a more direct analogy to human brain function. The human brain, with its interconnected neurons, processes information and makes decisions in a complex yet efficient manner. Artificial neural networks (ANNs) mimic this structure and function, enabling deep learning, a subset of ML, to model intricate patterns and decision processes, thereby enhancing the computer’s ability to tackle complex tasks.
+
+Fuzzy logic allows computers to handle situations with imprecise or uncertain information, similar to how humans often make decisions in ambiguous contexts. Instead of relying on binary true/false logic, fuzzy logic reasons with degrees of truth, making it particularly useful in control systems and other decision-making processes where input data is not clear-cut.
+
+Genetic algorithms draw inspiration from human evolution and natural selection to find optimal solutions over generations. By employing evolutionary principles such as selection, crossover, and mutation, these algorithms evolve solutions over successive generations, improving their performance in solving optimization problems.
+
+Heuristic methods provide practical solutions to complex problems when exact solutions are not feasible. Humans frequently use heuristics, or rules of thumb, to make quick and efficient decisions in complicated situations. Similarly, heuristic algorithms in computers offer approximate solutions that are often good enough for practical purposes, such as in search algorithms and optimization techniques.
+
+Cognitive computing aims to simulate human thought processes in a computerized model, reflecting the human abilities of perception, reasoning, and problem-solving. Systems like IBM Watson utilize natural language processing, sentiment analysis, and other AI technologies to process information and make decisions in a manner akin to human cognition.
+
+Bayesian networks model human decision-making under uncertainty by assessing probabilities and making decisions based on likelihoods and beliefs. These probabilistic models represent a set of variables and their conditional dependencies, allowing computers to reason with incomplete information and make informed decisions.
+
+Reinforcement learning is inspired by the human learning process of trial and error, where feedback from the environment guides future actions. In computers, reinforcement learning algorithms enable learning through interactions with the environment, with rewards or penalties shaping the decision-making process. This approach is highly effective in applications such as robotics, game playing, and autonomous systems.
+
+Finally, case-based reasoning systems emulate the human ability to solve new problems by recalling and adapting solutions from similar past experiences. By maintaining a library of past cases, these systems can address new problems by finding similar cases and adapting their solutions to the current context, enhancing the computer’s problem-solving capabilities.
+
+These methodologies demonstrate how computers can be designed to emulate human decision-making processes, leveraging various aspects of human cognition and learning to enhance their decision-making capabilities.
+
+<br>
+</details>
+
 #
 
 > Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
