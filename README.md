@@ -23,6 +23,9 @@ While process automation encompasses the broader task of automating entire workf
 ### Example Usage
 
 [Employee_Performance_Evaluation_and_Promotion_Decision_Model.txt](https://github.com/sourceduty/Decision_Automation/files/15380654/Employee_Performance_Evaluation_and_Promotion_Decision_Model.txt)
+<br>
+[opinion_example_output.txt](https://github.com/sourceduty/Decision_Automation/files/15440213/opinion_example_output.txt)
+
 
 #
 ### Related Links
