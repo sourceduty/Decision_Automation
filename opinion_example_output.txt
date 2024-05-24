@@ -1,0 +1,15 @@
+Criteria:
+
+Keywords: address, adoption, advancements, analysis, automotive, challenges, charge, charging, companies, competitive, continuous, costs, crucial, demand, driving, electric, encourage, ev, evs, force, ford, future, gm, governments, growth, high, incentives, increase, indicating, industry, infrastructure, initial, innovative, issues, leaders, leading, limited, looks, major, market, models, momentum, offering, options, overall, past, policymakers, positive, pricing, projections, promising, public, rates, remain, report, rise, seen, sentiment, significant, subsidies, sustain, sustainable, technological, tesla, title, transportation, vehicles, world, years
+
+Sentiment: Polarity=0.03699134199134199, Subjectivity=0.4358321308321309
+
+Topics: title market analysis, the market, electric vehicles, evs, a significant increase, demand, the past few years, major automotive companies, tesla ford, gm, the charge, innovative models, competitive pricing, the positive public sentiment, sustainable and transportation options, a major driving force, this growth governments, the world, incentives, subsidies, the adoption, electric vehicles, limited charging infrastructure, high initial costs, it, policymakers, industry leaders, these issues, the momentum, the ev market, electric vehicles, projections, a continuous rise, adoption rates, technological advancements
+
+Entities: the past few years (DATE), ford (ORG), gm (ORG)
+
+Opinion:
+
+Based on the analysis, the text has a neutral sentiment. The key topics discussed are title market analysis, the market, electric vehicles, evs, a significant increase, demand, the past few years, major automotive companies, tesla ford, gm, the charge, innovative models, competitive pricing, the positive public sentiment, sustainable and transportation options, a major driving force, this growth governments, the world, incentives, subsidies, the adoption, electric vehicles, limited charging infrastructure, high initial costs, it, policymakers, industry leaders, these issues, the momentum, the ev market, electric vehicles, projections, a continuous rise, adoption rates, technological advancements. 
+
+Recognized entities include the past few years (DATE), ford (ORG), gm (ORG). Keywords extracted from the text are address, adoption, advancements, analysis, automotive, challenges, charge, charging, companies, competitive, continuous, costs, crucial, demand, driving, electric, encourage, ev, evs, force, ford, future, gm, governments, growth, high, incentives, increase, indicating, industry, infrastructure, initial, innovative, issues, leaders, leading, limited, looks, major, market, models, momentum, offering, options, overall, past, policymakers, positive, pricing, projections, promising, public, rates, remain, report, rise, seen, sentiment, significant, subsidies, sustain, sustainable, technological, tesla, title, transportation, vehicles, world, years.
