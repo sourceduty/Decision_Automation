@@ -213,6 +213,8 @@ Furthermore, Python's integration capabilities allow for the combination of brai
 [Business Automation](https://github.com/sourceduty/Business_Automation)
 <br>
 [Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
+<br>
+[Process](https://github.com/sourceduty/Process)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
