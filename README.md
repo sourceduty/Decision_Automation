@@ -391,6 +391,52 @@ The Simplified Bird Brain Neural Process Diagram can be expanded to include more
 <br>
 </details>
 
+<details><summary>Simplest Jellyfish Neural Network Diagram</summary>
+<br>
+
+This is a neural network diagram for the simplest jellyfish, such as the Turritopsis dohrnii (commonly known as the immortal jellyfish), involves illustrating its basic nervous system. Jellyfish have a decentralized nerve net instead of a central nervous system. This nerve net controls their movements and basic functions.
+
+#### Neural Process Diagrams for the Simplest Jellyfish
+
+```
+1. **Sensory Cells**: Detect changes in the environment (e.g., light, chemicals, touch).
+2. **Nerve Rings**: Coordinate movements and process sensory information.
+3. **Nerve Net**: A diffuse network of interconnected neurons that span the body of the jellyfish.
+4. **Motor Neurons**: Control the contraction of muscles for movement.
+```
+
+```
+                Sensory Cells
+                     |
+   --------------------------------
+   |                              |
+Nerve Ring                  Nerve Ring
+   |                              |
+   ------------------------------
+   |                              |
+   |       Nerve Net             |
+   |                              |
+   |            ---------------------
+   |            |                   |
+Motor Neurons   Motor Neurons   Motor Neurons
+   |            |                   |
+   |            |                   |
+   |            |                   |
+Muscles       Muscles             Muscles
+```
+
+#### Explanation
+
+- **Sensory Cells**: These cells are distributed throughout the jellyfish's body and detect environmental stimuli.
+- **Nerve Rings**: Two main nerve rings are typically located around the bell of the jellyfish, processing sensory information and coordinating movements.
+- **Nerve Net**: This network consists of interconnected neurons that spread throughout the jellyfish’s body, facilitating communication between sensory cells, nerve rings, and motor neurons.
+- **Motor Neurons**: These neurons send signals to the muscles, causing contractions that allow the jellyfish to swim.
+
+This simplified diagram captures the essence of a jellyfish’s neural network, highlighting its decentralized and rudimentary nervous system.
+
+<br>
+</details>
+
 #
 ### Example Usage
 
