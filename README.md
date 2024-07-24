@@ -253,7 +253,7 @@ Replicating the human brain in a decision automation model is an extremely compl
 <br>
 </details>
 
-<details><summary>Simplified Bird Brain Neural Process Diagram/summary>
+<details><summary>Simplified Bird Brain Neural Process Diagram</summary>
 <br>
 
 Understanding the neural processes within a bird's brain, even in its simplest form, provides significant insights into how sensory information is processed, integrated, and transformed into motor actions. This report presents a detailed diagram of the simplest bird brain's neural network using a structured shortform code. By mapping the flow of information from sensory input to motor output, this diagram elucidates the fundamental mechanisms underlying bird cognition and behavior.
