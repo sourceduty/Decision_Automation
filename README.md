@@ -396,14 +396,12 @@ The Simplified Bird Brain Neural Process Diagram can be expanded to include more
 
 This is a neural network diagram for the simplest jellyfish, such as the Turritopsis dohrnii (commonly known as the immortal jellyfish), involves illustrating its basic nervous system. Jellyfish have a decentralized nerve net instead of a central nervous system. This nerve net controls their movements and basic functions.
 
-#### Neural Process Diagrams for the Simplest Jellyfish
-
-```
 1. **Sensory Cells**: Detect changes in the environment (e.g., light, chemicals, touch).
 2. **Nerve Rings**: Coordinate movements and process sensory information.
 3. **Nerve Net**: A diffuse network of interconnected neurons that span the body of the jellyfish.
 4. **Motor Neurons**: Control the contraction of muscles for movement.
-```
+
+#### Neural Process Diagrams for the Simplest Jellyfish
 
 ```
                 Sensory Cells
