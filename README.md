@@ -456,6 +456,8 @@ This simplified diagram captures the essence of a jellyfish’s neural network, 
 [Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 <br>
 [Process](https://github.com/sourceduty/Process)
+<br>
+[Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
