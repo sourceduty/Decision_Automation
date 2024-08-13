@@ -16,6 +16,24 @@ In contrast, decision automation focuses specifically on automating decision-mak
 While process automation encompasses the broader task of automating entire workflows, decision automation is more granular, focusing on specific decision-making tasks within those workflows. Decision automation can be a component of process automation, as processes often include several decision points that benefit from automated, data-driven decision-making to ensure consistency and efficiency. Typically, process automation involves simpler, rule-based tasks, whereas decision automation can involve more complex logic and data analysis, sometimes utilizing AI and ML. Understanding these differences is crucial for selecting the appropriate approach and tools for automating various aspects of business operations, thereby optimizing both processes and decisions for maximum efficiency and effectiveness.
 
 #
+### Automated Decision Standards
+
+Standards of Decision and Opinion Automation refer to the principles, guidelines, and best practices that organizations and systems should follow when automating decision-making processes or generating opinions.
+
+```
+- Transparency
+- Fairness and Non-Discrimination
+- Accountability
+- Accuracy and Reliability
+- Data Privacy and Security
+- User Consent and Control
+- Ethical Considerations
+- Compliance with Legal and Regulatory Standards
+```
+
+These standards are essential for maintaining trust, fairness, and effectiveness in automated decision-making and opinion generation systems. Organizations implementing such systems should integrate these principles into their development, deployment, and monitoring processes.
+
+#
 ### Notes
 
 <details><summary>Natural Human Decisions vs. Computational Decisions</summary>
@@ -446,6 +464,8 @@ This simplified diagram captures the essence of a jellyfish’s neural network, 
 
 > Alex: *"This is a very useful automation tool for developing Python decision programs used for statistics, ML, NLP and algorithms."*
 
+> "*I use decision automation for custom chatbot development.*"
+
 #
 ### Related Links
 
@@ -458,6 +478,10 @@ This simplified diagram captures the essence of a jellyfish’s neural network, 
 [Process](https://github.com/sourceduty/Process)
 <br>
 [Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
+<br>
+[Artificial Group Chat](https://github.com/sourceduty/Artificial_Group_Chat)
+<br>
+[Willy Wonka Chat](https://github.com/sourceduty/Willy_Wonka_Chat)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
