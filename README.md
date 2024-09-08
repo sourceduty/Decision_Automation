@@ -484,6 +484,8 @@ This simplified diagram captures the essence of a jellyfish’s neural network, 
 [Willy Wonka Chat](https://github.com/sourceduty/Willy_Wonka_Chat)
 <br>
 [Public Opinion Standard](https://github.com/sourceduty/Public_Opinion_Standard)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
